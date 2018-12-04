@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure_Redis", "Azure_Redis\Azure_Redis.csproj", "{DE1D0EB4-8ED8-486F-A898-B93343722BEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat", "Chat\Chat.csproj", "{28938748-1ADC-49A3-848A-3E22BE5B2F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{48680608-9E91-48E3-BDFA-2765A0E2A423}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DE1D0EB4-8ED8-486F-A898-B93343722BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE1D0EB4-8ED8-486F-A898-B93343722BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE1D0EB4-8ED8-486F-A898-B93343722BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28938748-1ADC-49A3-848A-3E22BE5B2F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28938748-1ADC-49A3-848A-3E22BE5B2F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28938748-1ADC-49A3-848A-3E22BE5B2F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28938748-1ADC-49A3-848A-3E22BE5B2F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48680608-9E91-48E3-BDFA-2765A0E2A423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48680608-9E91-48E3-BDFA-2765A0E2A423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48680608-9E91-48E3-BDFA-2765A0E2A423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48680608-9E91-48E3-BDFA-2765A0E2A423}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
